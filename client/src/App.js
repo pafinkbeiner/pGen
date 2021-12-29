@@ -140,7 +140,7 @@ function App() {
             <div onClick={handleGeneratePassword} className="btn" style={{ width: "10%", display: "flex", alignItems: "center", justifyContent: "center" }}><RefreshRounded></RefreshRounded></div>
           </div>
           {/* <div><ArrowDownwardRounded></ArrowDownwardRounded></div> */}
-
+ 
         </div>
 
         <div style={{ backgroundColor: "rgba(155,155,155,0.1)", height: "5%", display: "flex", alignItems: "center", justifyContent: "flex-end", paddingRight: "1rem" }}>	&copy; Paul Finkbeiner 2022</div>
